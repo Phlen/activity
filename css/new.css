@@ -1,0 +1,52 @@
+.main {font-size: 14px;width: 980px;margin: 15px auto;color: #333;}
+.main .nav{
+	height: 35px;
+	border-top: 1px solid #e0e0e0;
+	border-right: 1px solid #e6e6e6;
+	border-bottom: 1px solid #e4e4e4;
+	border-left: 1px solid #d2d2d2;
+	-moz-box-shadow: 1px 1px 1px #f7f7f7;
+	-webkit-box-shadow:1px 1px 1px #f7f7f7;
+	box-shadow: 1px 1px 1px #f7f7f7;
+	background-color: #F3F3F3}
+.main .nav p{font-size: 16px;padding-top: 9px;padding-left: 25px; }
+.main .content{
+	width: 980px;
+	min-height: 360px;
+	border-top: 1px solid #f2f2f2;
+	border-right: 1px solid #d3d3d3;
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #d3d3d3;
+}
+.main .content .lef{margin-left: 140px;}
+.main .content .rig1{margin-left:98px; }
+.main .content .rig2{margin-left: 57px;}
+.main .content .nam{
+	width: 600px;
+	height: 30px;
+	margin-top: 35px;
+	margin-left: 27px;
+}
+.main .content .con{
+	width: 600px;
+	height: 250px;
+	margin:18px auto auto 27px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+.main .content .block{width: 200px;height: 30px;margin-top: 20px;margin-left: 27px;}
+.main .content .block2{width: 200px;height: 30px;margin-top: 20px;margin-left: 22px;}
+.main .content .block3{width: 200px;height: 30px;margin-top: 20px;margin-left: 13px;}
+input:focus{padding-left: 5px;border: 1px solid #7ECECA;}
+input[type = "submit"]{
+	font-size: 16px;
+	color: #ffffff;
+	text-align: center;
+	width: 100px;
+	height: 30px;
+	background-color: #1693A5;
+	border: 0px;
+	margin:20px auto 60px 240px; 
+	padding-left: 5px;
+}
+

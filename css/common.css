@@ -1,0 +1,21 @@
+/*布局*/
+body{
+	background-color: #fbfbfb;font-family: 微软雅黑 ;font-size: 12px;
+}
+.container{width: 100%; margin: 0 auto; background-color: #fff;}
+.header{min-height: 60px;background-color: #1693A5;}
+.main{width: 980px;min-height: 300px;margin: 15px auto 38px auto;background-color: #fff;}
+.footer{min-height: 40px;}
+
+/*header*/
+.header  {height: 60px;}
+.header .logo .act{font-size: 24px;color: #c6ece7;float: left;padding-top: 15px;padding-left: 185px;text-align: center;}
+.header .new{font-size: 24px;color: #c6ece7;float: right; padding-top: 15px;padding-right: 185px;}
+.header a{text-decoration: none;}
+.header a:hover{text-decoration: underline;color: #fff;}
+
+/*content*/
+.main{}
+
+/*fotter*/
+.footer{width: 980px;margin:38px auto;text-align: center;border-top: 1px solid #CCCCCC;padding-top: 12px;}

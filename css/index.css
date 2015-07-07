@@ -1,0 +1,17 @@
+.main{width: 980px;margin: 15px auto;font-size: 16px;color: #333; }
+.main .date{
+	height: 35px;
+	background-color: #F3F3F3;
+	border: 1px solid #CCC;
+	border-top-color: #cdcdcd #eaeaea #e9e9e9;
+}
+.main .date p{padding-top: 9px;padding-left: 20px;}
+.main .date span{text-align: center;float: right;border: 1px solid #7ECCD6;border-radius: 25px;width: 25px;height: 25px;margin-top: -5px;margin-right: 18px;}
+.main .l1{height: 60px;background-color: #fff;border-bottom: 1px solid #CCCCCC;border-left: 5px solid #D8D8C0;}
+.main .lp{font-size: 12px;padding-top: 8px;padding-left: 32px; }
+.main .mp{margin-top: 4px;padding-left: 32px;}
+.main .spa{text-align: center;float: right;width: 83px;height: 27px;background-color: #1AACC1;margin-top: 5px;margin-right: 18px;padding-top: 5px;}
+.main a{font-size: 16px;color: #D8EDF1;text-decoration: none;}
+.main a:hover{text-decoration: underline;color: #1AACC1;}
+.main .l2{height: 60px;background-color: #fff;border-bottom: 1px solid #CCCCCC;border-left: 5px solid #0A9271;}
+.main .l3{height: 60px;background-color: #fff;border-bottom: 1px solid #CCCCCC;border-left: 5px solid #F02311;}
